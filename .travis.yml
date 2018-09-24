@@ -1,0 +1,11 @@
+language: node_js
+node_js: node
+cache:
+  directories:
+    - node_modules
+env:
+  - CI=true
+deploy: 
+  provider: heroku
+  api_key: b18a5867-e44e-4007-818a-b54936842203
+  app: stark-inlet-28658
