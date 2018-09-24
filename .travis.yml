@@ -8,4 +8,4 @@ env:
 deploy: 
   provider: heroku
   api_key: b18a5867-e44e-4007-818a-b54936842203
-  app: stark-inlet-28658
+  app: vast-dusk-40974
